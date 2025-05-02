@@ -21,5 +21,7 @@
 			</array>
 		</dict>
 	</dict>
+	<key>NSSpeechRecognitionUsageDescription</key>
+	<string>We use speech recognition to let you control the app with your voice.</string>
 </dict>
 </plist>
